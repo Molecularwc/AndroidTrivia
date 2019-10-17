@@ -2,7 +2,7 @@
 
 An Android application that allows you to play a trivia game.
 
-Submitted by: <name>
+Submitted by: Richard Salvaty
 
 Time spent: <time>
 
@@ -10,14 +10,14 @@ Time spent: <time>
 
 The following **required** functionality is complete:
 
-* [ ] Implement multiple screens using fragments.
-* [ ] Add navigation and conditional navigation between fragments.
-* [ ] Add support for the Up Button.
-* [ ] Add a menu.
-* [ ] Add public sharing of trivia results with an Intent.
-* [ ] Add a navigation drawer.
-* [ ] Disable drawer swiping using navigation listener.
-* [ ] Add animations.
+* [X] Implement multiple screens using fragments.
+* [X] Add navigation and conditional navigation between fragments.
+* [X] Add support for the Up Button.
+* [X] Add a menu.
+* [X] Add public sharing of trivia results with an Intent.
+* [X] Add a navigation drawer.
+* [X] Disable drawer swiping using navigation listener.
+* [X] Add animations.
 
 The following **additional** features are implemented:
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 Richard Salvaty
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
