@@ -54,7 +54,20 @@ class GameFragment : Fragment() {
             Question(text = "Registers app with launcher?",
                     answers = listOf("intent-filter", "app-registry", "launcher-registry", "app-launcher")),
             Question(text = "Mark a layout for Data Binding?",
-                    answers = listOf("<layout>", "<binding>", "<data-binding>", "<dbinding>"))
+                    answers = listOf("<layout>", "<binding>", "<data-binding>", "<dbinding>")),
+            Question(text = "How many parsecs did it take Han Solo to make the Kessel Run?",
+                    answers = listOf("<less than 12>", "<less than 11>", "<less than 14>", "<less than 10>")),
+            Question(text = "In the Empire Strikes Back, Darth Vader states 'Obi-Wan never told you what happened to your father'. " +
+                    "After Luke responds, which is the correct phrase Vader says?",
+                    answers = listOf("<No, I am your father.>", "<I am your father.>", "<Who's your daddy?>", "<Luke, I am your father.>")),
+            Question(text = "Who were the guardians of peace and justice in the Old Republic?",
+                    answers = listOf("The Jedi", "The Sith", "The Mandalorians", "The Wookies")),
+            Question(text = "He was both Jedi and  Dark Lord of the Sith during the Mandalorian wars, Jedi Civil War, and the Great Galactic War in the expanded universe lore?",
+                    answers = listOf("Revan", "Malak", "Vitiate", "Bastila Shan")),
+            Question(text = "Which start system was Luke directed to travel to to find the Jedi Master Yoda?",
+                    answers = listOf("Degobah", "Alderaan", "Tatooine", "Yavin")),
+            Question(text = "Which of the following were NOT names Gandalf was known by?",
+                    answers = listOf("Flame of Udun", "The Grey Pilgrim", "Gandalf Stormcrow", "Gandalf Greyhame"))
     )
 
     lateinit var currentQuestion: Question
