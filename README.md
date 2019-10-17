@@ -4,7 +4,7 @@ An Android application that allows you to play a trivia game.
 
 Submitted by: Richard Salvaty
 
-Time spent: <time>
+Time spent: 5.5 hours
 
 ## User Stories
 
